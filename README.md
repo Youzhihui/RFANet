@@ -3,7 +3,7 @@
 > **Authors:**
 Zhi-Hui You; Si-Bao Chen; Jia-Xin Wang; Bin Luo
 
-This repository contains simple python implementation of our paper [RFANet](https://www.sciencedirect.com/science/article/abs/pii/S092427162400251X).
+This repository contains simple pytorch implementation of our paper [RFANet](https://www.sciencedirect.com/science/article/abs/pii/S092427162400251X).
 
 ### 1. Overview
 
