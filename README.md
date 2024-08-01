@@ -27,21 +27,25 @@ This repository contains simple python implementation of our paper [RFANet](http
 - Generate list file as `ls -R ./label/* > test.txt`
 - Prepare datasets into following structure and set their path in `train.py` and `test.py`
   ```
-  ├─Train
-      ├─A        ...jpg/png
-      ├─B        ...jpg/png
-      ├─label    ...jpg/png
-      └─list     ...txt
-  ├─Val
-      ├─A
-      ├─B
-      ├─label
-      └─list
-  ├─Test
-      ├─A
-      ├─B
-      ├─label
-      └─list
+  ├─A
+      ├─A1.jpg/png
+      ├─A2.jpg/png
+      ├─...jpg/png
+      └─...jpg/png
+  ├─B
+      ├─B1.jpg/png
+      ├─B2.jpg/png
+      ├─...jpg/png
+      └─...jpg/png
+  ├─label
+      ├─label1.jpg/png
+      ├─label2.jpg/png
+      ├─...jpg/png
+      └─...jpg/png
+  ├─list
+      ├─train.txt
+      ├─val.txt
+      └─test.txt
   ```
 #### 2.2 Setting up conda environment
 + Prerequisites for Python:
