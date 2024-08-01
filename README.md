@@ -80,7 +80,7 @@ This repository is built under the help of the projects  [A2Net](https://github.
 
 Please cite our paper if you find the work useful:
 
-    @article{Li_2023_A2Net,
+    @article{you2024robust,
         title={Robust feature aggregation network for lightweight and effective remote sensing image change detection},
         author={You, Zhi-Hui and Chen, Si-Bao and Wang, Jia-Xin and Luo, Bin},
         journal={ISPRS Journal of Photogrammetry and Remote Sensing},
