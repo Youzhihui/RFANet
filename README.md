@@ -89,5 +89,3 @@ Please cite our paper if you find the work useful:
         year={2024},
         publisher={Elsevier}
         }
-
-Try UncertaintyAttention
