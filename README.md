@@ -22,7 +22,7 @@ This repository contains simple pytorch implementation of our paper [RFANet](htt
     - [`WHU-CD`](https://www.dropbox.com/s/r76a00jcxp5d3hl/WHU-CD-256.zip?dl=0)
     - [`CDD-CD`](https://www.dropbox.com/s/ls9fq5u61k8wxwk/CDD.zip?dl=0)
     - [`SYSU-CD`](https://github.com/liumency/SYSU-CD)
-    - [`./samples/test`]() is a sample to start quickly.
+    - [`./samples/test`](https://github.com/Youzhihui/RFANet/tree/main/samples) is a sample to start quickly.
 - Crop all datasets into 256x256 patches.
 - Generate list file as `ls -R ./label/* > test.txt`
 - Prepare datasets into following structure and set their path in `train.py` and `test.py`
