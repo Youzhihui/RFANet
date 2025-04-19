@@ -76,11 +76,17 @@ This repository contains simple pytorch implementation of our paper [RFANet](htt
     </em>
 </p>
 
-### 4. Acknowlogdement
+### 4. Checkpoints on Datasets
+
+Our trained pth on LEVIR-CD: [Download](https://github.com/Youzhihui/RFANet/checkpoints/LEVIR-CD.pth)
+
+Our trained pth on WHU-CD: [Download](https://github.com/Youzhihui/RFANet/checkpoints/WHU-CD.pth)
+
+### 5. Acknowlogdement
 This repository is built under the help of the projects  [A2Net](https://github.com/guanyuezhen/A2Net), [BIT_CD](https://github.com/justchenhao/BIT_CD), 
 [CDLab](https://github.com/Bobholamovic/CDLab), and [MobileSal](https://github.com/yuhuan-wu/MobileSal) for academic use only.
 
-### 5. Citation
+### 6. Citation
 
 Please cite our paper if you find the work useful:
 
