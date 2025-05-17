@@ -78,13 +78,13 @@ This repository contains simple pytorch implementation of our paper [RFANet](htt
 
 ### 4. Checkpoints on Datasets
 
-Our trained pth on LEVIR-CD: [Download](https://github.com/Youzhihui/RFANet/checkpoints/WHU-CD.pth)
+Our trained pth on LEVIR-CD: [Download](https://github.com/Youzhihui/RFANet/tree/main/checkpoints/LEVIR-CD.pth)
 
-Our trained pth on WHU-CD: [Download](https://github.com/Youzhihui/RFANet/checkpoints/WHU-CD.pth)
+Our trained pth on WHU-CD: [Download](https://github.com/Youzhihui/RFANet/tree/main/checkpoints/WHU-CD.pth)
 
-Our trained pth on CDD-CD: [Download](https://github.com/Youzhihui/RFANet/checkpoints/CDD-CD.pth)
+Our trained pth on CDD-CD: [Download](https://github.com/Youzhihui/RFANet/tree/main/checkpoints/CDD-CD.pth)
 
-Our trained pth on SYSU-CD: [Download](https://github.com/Youzhihui/RFANet/checkpoints/SYSU-CD.pth)
+Our trained pth on SYSU-CD: [Download](https://github.com/Youzhihui/RFANet/tree/main/checkpoints/SYSU-CD.pth)
 
 ### 5. Acknowlogdement
 This repository is built under the help of the projects  [A2Net](https://github.com/guanyuezhen/A2Net), [BIT_CD](https://github.com/justchenhao/BIT_CD), 
