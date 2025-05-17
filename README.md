@@ -78,7 +78,7 @@ This repository contains simple pytorch implementation of our paper [RFANet](htt
 
 ### 4. Checkpoints on Datasets
 
-Our trained pth on LEVIR-CD: [Download](https://github.com/Youzhihui/RFANet/checkpoints/LEVIR-CD.pth)
+Our trained pth on LEVIR-CD: [Download](https://raw.githubusercontent.com/Youzhihui/RFANet/main/models/LEVIR-CD.pth)   https://raw.githubusercontent.com/Youzhihui/RFANet/main/models/LEVIR-CD.pth
 
 Our trained pth on WHU-CD: [Download](https://github.com/Youzhihui/RFANet/checkpoints/WHU-CD.pth)
 
